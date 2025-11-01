@@ -1,6 +1,6 @@
 # CS555 Final Project
 
-This repo contains my final project for CS 555 (Numerical Methods for Partial Differential Equations), where I implemented the discrete ordinates ($S_N$) method for solving the linear Boltzman equation with isotropic external and scattering sources. The implementation is tested against the 1D Reed benchmark problem:
+This repo contains my final project for CS 555 (Numerical Methods for Partial Differential Equations) at UIUC, where I implemented the discrete ordinates ($S_N$) method for solving the linear Boltzman equation with isotropic external and scattering sources. The implementation is tested against the 1D Reed benchmark problem:
 
 ![Reed](images/1D_reed_g0_flux.png)
 
